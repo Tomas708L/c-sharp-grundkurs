@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 2 conversion task in c#\bin\Debug\uppgift 2 conversion task in c#.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 2 conversion task in c#\bin\Debug\uppgift 2 conversion task in c#.exe
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 2 conversion task in c#\bin\Debug\uppgift 2 conversion task in c#.pdb
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 2 conversion task in c#\obj\Debug\uppgift 2 conversion task in c#.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 2 conversion task in c#\obj\Debug\uppgift 2 conversion task in c#.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 2 conversion task in c#\obj\Debug\uppgift 2 conversion task in c#.exe
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 2 conversion task in c#\obj\Debug\uppgift 2 conversion task in c#.pdb
