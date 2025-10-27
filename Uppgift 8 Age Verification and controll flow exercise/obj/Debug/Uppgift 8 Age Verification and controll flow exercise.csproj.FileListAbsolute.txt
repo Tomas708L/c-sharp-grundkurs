@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 8 Age Verification and controll flow exercise\bin\Debug\Uppgift 8 Age Verification and controll flow exercise.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 8 Age Verification and controll flow exercise\bin\Debug\Uppgift 8 Age Verification and controll flow exercise.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 8 Age Verification and controll flow exercise\bin\Debug\Uppgift 8 Age Verification and controll flow exercise.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 8 Age Verification and controll flow exercise\obj\Debug\Uppgift 8 Age Verification and controll flow exercise.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 8 Age Verification and controll flow exercise\obj\Debug\Uppgift 8 Age Verification and controll flow exercise.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 8 Age Verification and controll flow exercise\obj\Debug\Uppgift 8 Age Verification and controll flow exercise.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 8 Age Verification and controll flow exercise\obj\Debug\Uppgift 8 Age Verification and controll flow exercise.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 8 Age Verification and controll flow exercise\obj\Debug\Uppgift 8 Age Verification and controll flow exercise.exe.config
