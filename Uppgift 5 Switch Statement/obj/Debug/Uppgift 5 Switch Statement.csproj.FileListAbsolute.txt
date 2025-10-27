@@ -1,0 +1,7 @@
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 5 Switch Statement\bin\Debug\Uppgift 5 Switch Statement.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 5 Switch Statement\bin\Debug\Uppgift 5 Switch Statement.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 5 Switch Statement\bin\Debug\Uppgift 5 Switch Statement.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 5 Switch Statement\obj\Debug\Uppgift 5 Switch Statement.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 5 Switch Statement\obj\Debug\Uppgift 5 Switch Statement.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 5 Switch Statement\obj\Debug\Uppgift 5 Switch Statement.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 5 Switch Statement\obj\Debug\Uppgift 5 Switch Statement.pdb
