@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 3 Input Output in c#\bin\Debug\uppgift 3 Input Output in c#.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 3 Input Output in c#\bin\Debug\uppgift 3 Input Output in c#.exe
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 3 Input Output in c#\bin\Debug\uppgift 3 Input Output in c#.pdb
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 3 Input Output in c#\obj\Debug\uppgift 3 Input Output in c#.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 3 Input Output in c#\obj\Debug\uppgift 3 Input Output in c#.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 3 Input Output in c#\obj\Debug\uppgift 3 Input Output in c#.exe
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 3 Input Output in c#\obj\Debug\uppgift 3 Input Output in c#.pdb
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 3 Input Output in c#\obj\Debug\uppgift 3 Input Output in c#.exe.config
