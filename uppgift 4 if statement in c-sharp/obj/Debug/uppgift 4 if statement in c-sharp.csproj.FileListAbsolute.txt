@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 4 if statement in c-sharp\bin\Debug\uppgift 4 if statement in c-sharp.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 4 if statement in c-sharp\bin\Debug\uppgift 4 if statement in c-sharp.exe
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 4 if statement in c-sharp\bin\Debug\uppgift 4 if statement in c-sharp.pdb
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 4 if statement in c-sharp\obj\Debug\uppgift 4 if statement in c-sharp.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 4 if statement in c-sharp\obj\Debug\uppgift 4 if statement in c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 4 if statement in c-sharp\obj\Debug\uppgift 4 if statement in c-sharp.exe
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 4 if statement in c-sharp\obj\Debug\uppgift 4 if statement in c-sharp.pdb
+C:\Users\admin1\Documents\c#Grundkurs\uppgift 4 if statement in c-sharp\obj\Debug\uppgift 4 if statement in c-sharp.exe.config
