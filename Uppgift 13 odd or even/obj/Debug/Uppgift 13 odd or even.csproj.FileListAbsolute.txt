@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 13 odd or even\bin\Debug\Uppgift 13 odd or even.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 13 odd or even\bin\Debug\Uppgift 13 odd or even.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 13 odd or even\bin\Debug\Uppgift 13 odd or even.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 13 odd or even\obj\Debug\Uppgift 13 odd or even.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 13 odd or even\obj\Debug\Uppgift 13 odd or even.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 13 odd or even\obj\Debug\Uppgift 13 odd or even.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 13 odd or even\obj\Debug\Uppgift 13 odd or even.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 13 odd or even\obj\Debug\Uppgift 13 odd or even.exe.config

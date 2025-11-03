@@ -1,0 +1,8 @@
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 11 message printer task\bin\Debug\Uppgift 11 message printer task.exe.config
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 11 message printer task\bin\Debug\Uppgift 11 message printer task.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 11 message printer task\bin\Debug\Uppgift 11 message printer task.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 11 message printer task\obj\Debug\Uppgift 11 message printer task.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 11 message printer task\obj\Debug\Uppgift 11 message printer task.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 11 message printer task\obj\Debug\Uppgift 11 message printer task.exe
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 11 message printer task\obj\Debug\Uppgift 11 message printer task.pdb
+C:\Users\admin1\Documents\c#Grundkurs\Uppgift 11 message printer task\obj\Debug\Uppgift 11 message printer task.exe.config
