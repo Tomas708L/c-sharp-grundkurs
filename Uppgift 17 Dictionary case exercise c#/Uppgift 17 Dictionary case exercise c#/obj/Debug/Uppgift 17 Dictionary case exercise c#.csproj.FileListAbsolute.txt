@@ -1,0 +1,8 @@
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 17 Dictionary case exercise c#\Uppgift 17 Dictionary case exercise c#\bin\Debug\Uppgift 17 Dictionary case exercise c#.exe.config
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 17 Dictionary case exercise c#\Uppgift 17 Dictionary case exercise c#\bin\Debug\Uppgift 17 Dictionary case exercise c#.exe
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 17 Dictionary case exercise c#\Uppgift 17 Dictionary case exercise c#\bin\Debug\Uppgift 17 Dictionary case exercise c#.pdb
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 17 Dictionary case exercise c#\Uppgift 17 Dictionary case exercise c#\obj\Debug\Uppgift 17 Dictionary case exercise c#.csproj.AssemblyReference.cache
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 17 Dictionary case exercise c#\Uppgift 17 Dictionary case exercise c#\obj\Debug\Uppgift 17 Dictionary case exercise c#.csproj.CoreCompileInputs.cache
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 17 Dictionary case exercise c#\Uppgift 17 Dictionary case exercise c#\obj\Debug\Uppgift 17 Dictionary case exercise c#.exe
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 17 Dictionary case exercise c#\Uppgift 17 Dictionary case exercise c#\obj\Debug\Uppgift 17 Dictionary case exercise c#.pdb
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 17 Dictionary case exercise c#\Uppgift 17 Dictionary case exercise c#\obj\Debug\Uppgift 17 Dictionary case exercise c#.exe.config
