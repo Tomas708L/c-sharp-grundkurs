@@ -1,0 +1,7 @@
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 18 Area Calculation Task in c-sharp\Uppgift 18 Area Calculation Task in c-sharp\bin\Debug\Uppgift 18 Area Calculation Task in c-sharp.exe.config
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 18 Area Calculation Task in c-sharp\Uppgift 18 Area Calculation Task in c-sharp\bin\Debug\Uppgift 18 Area Calculation Task in c-sharp.exe
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 18 Area Calculation Task in c-sharp\Uppgift 18 Area Calculation Task in c-sharp\bin\Debug\Uppgift 18 Area Calculation Task in c-sharp.pdb
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 18 Area Calculation Task in c-sharp\Uppgift 18 Area Calculation Task in c-sharp\obj\Debug\Uppgift 18 Area Calculation Task in c-sharp.csproj.AssemblyReference.cache
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 18 Area Calculation Task in c-sharp\Uppgift 18 Area Calculation Task in c-sharp\obj\Debug\Uppgift 18 Area Calculation Task in c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 18 Area Calculation Task in c-sharp\Uppgift 18 Area Calculation Task in c-sharp\obj\Debug\Uppgift 18 Area Calculation Task in c-sharp.exe
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 18 Area Calculation Task in c-sharp\Uppgift 18 Area Calculation Task in c-sharp\obj\Debug\Uppgift 18 Area Calculation Task in c-sharp.pdb
