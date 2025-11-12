@@ -1,0 +1,8 @@
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 19 integer array task in c#\Uppgift 19 integer array task in c#\bin\Debug\Uppgift 19 integer array task in c#.exe.config
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 19 integer array task in c#\Uppgift 19 integer array task in c#\bin\Debug\Uppgift 19 integer array task in c#.exe
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 19 integer array task in c#\Uppgift 19 integer array task in c#\bin\Debug\Uppgift 19 integer array task in c#.pdb
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 19 integer array task in c#\Uppgift 19 integer array task in c#\obj\Debug\Uppgift 19 integer array task in c#.csproj.AssemblyReference.cache
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 19 integer array task in c#\Uppgift 19 integer array task in c#\obj\Debug\Uppgift 19 integer array task in c#.csproj.CoreCompileInputs.cache
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 19 integer array task in c#\Uppgift 19 integer array task in c#\obj\Debug\Uppgift 19 integer array task in c#.exe
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 19 integer array task in c#\Uppgift 19 integer array task in c#\obj\Debug\Uppgift 19 integer array task in c#.pdb
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 19 integer array task in c#\Uppgift 19 integer array task in c#\obj\Debug\Uppgift 19 integer array task in c#.exe.config
