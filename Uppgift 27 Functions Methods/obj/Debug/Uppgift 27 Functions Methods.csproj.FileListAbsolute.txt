@@ -1,0 +1,8 @@
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 27 Functions Methods\Uppgift 27 Functions Methods\bin\Debug\Uppgift 27 Functions Methods.exe.config
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 27 Functions Methods\Uppgift 27 Functions Methods\bin\Debug\Uppgift 27 Functions Methods.exe
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 27 Functions Methods\Uppgift 27 Functions Methods\bin\Debug\Uppgift 27 Functions Methods.pdb
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 27 Functions Methods\Uppgift 27 Functions Methods\obj\Debug\Uppgift 27 Functions Methods.csproj.AssemblyReference.cache
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 27 Functions Methods\Uppgift 27 Functions Methods\obj\Debug\Uppgift 27 Functions Methods.csproj.CoreCompileInputs.cache
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 27 Functions Methods\Uppgift 27 Functions Methods\obj\Debug\Uppgift 27 Functions Methods.exe
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 27 Functions Methods\Uppgift 27 Functions Methods\obj\Debug\Uppgift 27 Functions Methods.pdb
+C:\Users\LångstedtTomas.AzureAD.006\source\repos\Uppgift 27 Functions Methods\Uppgift 27 Functions Methods\obj\Debug\Uppgift 27 Functions Methods.exe.config
