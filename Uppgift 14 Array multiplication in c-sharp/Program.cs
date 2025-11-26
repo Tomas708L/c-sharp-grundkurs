@@ -20,8 +20,9 @@ namespace Uppgift_14_Array_multiplication_in_c_sharp
             }
             for(int i = 1; i < numbers.Length; i++)
             {
-                Console.WriteLine(numbers[i]);
+                 Console.WriteLine($"{num} x {i + 1} = {numbers[i]}");
             }
         }
     }
 }
+
