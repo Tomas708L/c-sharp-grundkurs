@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,10 +14,23 @@ namespace Uppgift_12_Password_Checker_task
             Console.Write("Enter a password: ");
             string passwd = Console.ReadLine();
 
+            int passLen = passwd.Length;
+
+            if (passwd == "")
+            {
+                Console.WriteLine("Please enter a password");
+            }
+
+            if (passLen <= 6)
+            {
+                Console.WriteLine("Password is too short");
+                
+            }
+
             Console.Write("Verify your password: ");
             string verifiedPasswd = Console.ReadLine();
 
-            if(passwd != verifiedPasswd)
+            if (passwd != verifiedPasswd)
             {
                 Console.WriteLine("Passwords do not match");
             }
@@ -26,23 +39,7 @@ namespace Uppgift_12_Password_Checker_task
                 Console.WriteLine("Password match");
             }
 
-                int passLen = passwd.Length;
 
-            if(passwd == "")
-            {
-                Console.WriteLine("Please enter a password");
-
-                if (passLen >= 6)
-                {
-                    Console.WriteLine("Password is too short");
-                }
-            }
-           
-
-            
-           
-            
-            
         }
     }
 }
